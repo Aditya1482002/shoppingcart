@@ -165,9 +165,9 @@
     .show{
         left: 0%;
     }
-    .sidebar{
+    /* .sidebar{
       width: 60vw;
-    }
+    } */
     .nav{
         box-sizing: border-box;
         width: 100%;
